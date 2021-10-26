@@ -9,6 +9,8 @@
 
 Patterns are typical solutions to common problems in object-oriented design.
 
+_________________
+
 ## Classification of Design Patterns
 
 ### 1. Creation-al Patterns
@@ -24,6 +26,8 @@ This pattern can be further divided into:
 #### 1.5 Prototype
 #### 1.6 Singleton
 
+_________________
+
 ### 2. Structural Patterns
 This design patterns is all about Class and Object composition:
 - Structural class-creation patterns use inheritance to compose interfaces
@@ -37,6 +41,8 @@ This design patterns is all about Class and Object composition:
 #### 2.6 Flyweight
 #### 2.7 Private Class Data
 #### 2.8 Proxy
+
+_________________
 
 ### 3. Behavioral Patterns
 This design patterns is all about Class's objects communication.
@@ -55,6 +61,8 @@ Behavioral patterns are those patterns that are most specifically concerned with
 #### 3.10 Strategy
 #### 3.11 Template method 
 #### 3.12 Visitor
+
+_________________
 
 ### 4 Architectural Patterns
 #### 4.1 Model-View-Controller
